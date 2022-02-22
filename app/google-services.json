@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "484663274185",
+    "project_id": "way-to-go-83391",
+    "storage_bucket": "way-to-go-83391.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:484663274185:android:3cded3d59119b7b5347b18",
+        "android_client_info": {
+          "package_name": "com.meicode.waytogo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "484663274185-thcrhpq24sdktc0cjfp7lbdn4bfo4ao7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYWhZfVAIyhbbytpStvKZgcqpZuR3S62c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "484663274185-thcrhpq24sdktc0cjfp7lbdn4bfo4ao7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
